@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Bissexto</string>
+    <string name="anuncio_text">Verificação de ano bissexto</string>
+    <string name="questionaData_text">Data: </string>
+    <string name="verificarButtom_text">Verificar!</string>
+</resources>
